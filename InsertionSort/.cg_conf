@@ -1,0 +1,1 @@
+{"id":"c","ext":"c","version":"GNU GCC v4.9.2","compile":"gcc -o main *.c","execute":"main 3 7 11 25 1 16 7 4","preview":"","command":"","file":"/home/cg/src/samples/main.c","url":"compile_c_online.php","mode":"c_cpp"}
